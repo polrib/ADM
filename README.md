@@ -1,2 +1,6 @@
 # ADM
-Algorithms for Data Mining
+
+Homeworks of the course Algorythmic Methods for Data Mining
+
+MsC Data Science, Universitàa La Sapienza
+
